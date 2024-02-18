@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GEusIRBzkjVqn2cU3RIHfpK6xBJgJvgbvdV3tGCS22k=",
+  "Source": "OutboxingPOC.API",
+  "BasePath": "_content/OutboxingPOC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

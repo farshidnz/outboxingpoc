@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrbevGSyxTVVDZh4NRBFEa3qeOOJamPN6OtECu7ohgPqBGcl0j18mnZufvE2UqDSOaSkte0ILFyfEKuih64IFg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Cashrewards\\OutboxingPoc\\MemoryLeaker\\MemoryLeaker\\MemoryLeaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
